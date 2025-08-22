@@ -7,6 +7,7 @@ export default function Home() {
       <div className="absolute z-0 w-full h-full bg-gradient-to-b from-black via-black/50 to-black"></div>
       <div className="relative z-10 w-full h-full flex flex-col justify-center items-center gap-20">
         <Image
+        alt="LOGO"
         src={"/logo_sm.png"}
         width={800}
         height={800}
