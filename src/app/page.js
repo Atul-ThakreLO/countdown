@@ -14,7 +14,7 @@ export default function Home() {
         className="h-52 object-cover"
         />
         <AnimatedNumberCountdown
-          endDate={new Date("2025-08-23T10:00:00")}
+          endDate={new Date("2025-08-23T05:30:00")}
           className="text-pink-700"
         />
       </div>
